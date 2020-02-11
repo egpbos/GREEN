@@ -9,6 +9,7 @@
 * Promote using trains:
     * https://www.happyrail.com/en/business 
     * https://www.treinreiswinkel.nl/zakelijk 
+    * Rule (of thumb): if there's a train ride of less than 6 hours to your destination, then always use that (or be forced to explain why it's not possible).
 
 ## Commuting 
 * Reflect on necessity of weekly travelling to PI location. A two monthly sprint may be much more efficient. 
