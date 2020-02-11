@@ -1,66 +1,21 @@
-# GREEN
+# GREEN-NLeSC <img src="img/GREEN-NLeSC_logo_G_nl_greenblack.png" width="100" alt="(GREEN-NLeSC logo)"/>
 GREEN-NLeSC action group, striving for an environmentally friendly organization
-We track all of our issues in https://github.com/NLeSC/GREEN/projects/1
-Green NLeSC collection of ideas 
 
-## Business (international) traveling 
+* We have an overview of ideas in https://github.com/NLeSC/GREEN/collection_of_ideas.md
 
-* Protocol for booking travels 
+* We track all of our issues in https://github.com/NLeSC/GREEN/projects/1
 
-    1 Discourage traveling  
-    2 Discourage using airplanes 
-    3 Compensate CO2 
+## How to contribute?
 
-* Promote using trains 
+* Please always check first whether something has been initiated already. If so, contact the person that is working on it.
 
-https://www.happyrail.com/en/business 
+* If you have a new idea, check if there is already an issue and/or list entry. If not, start here: 
+    1. Put it on the [list](https://github.com/NLeSC/GREEN/collection_of_ideas.md) under the appropriate header
+    
+* If you want to pick up something from the list, please check if an issue has been made already, if not:
+    2. Make a new issue and add it to the "New Ideas" column of [this project](https://github.com/NLeSC/GREEN/projects/1)
+    3. Add the issue number to the corresponding list entry in https://github.com/NLeSC/GREEN/collection_of_ideas.md
 
-https://www.treinreiswinkel.nl/zakelijk 
-
- 
-
-## Office energy consumption 
-
-Make sure it is impossible to have the Airco or radiator on while also having the window open. 
-Block the hottest setting of the radiators and hand out NLeSC sweaters for people that need more insulation. 
-Do not use Haskell 
-
- 
-
-## Office resource consumption 
-Get rid of the whole printing forms just to sign them and then scanning them again 
-Make sure old furniture and devices are not thrown away but reused.  
-
- 
-
-## Commuting 
-
-Reflect on necessity of weekly travelling to PI location. A two monthly sprint may be much more efficient. 
-Encourage cycle /walking commuting and/or discourage car commuting. 
-
-
-## Food 
-
-Ban all food products from lunch that contain palm oil (=rain forest cuts),  
-Less animal products at lunch 
-Organic products 
-
-https://www.circularcoffeecollective.com/coffee 
-
-
-## Investments 
-Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos. Same for other financial service providers. 
-
- 
-
-## Green NLeSC process and outreach 
-Collaborate with others at science park to collect knowledge and share experiences around this topic. 
-Think about how we can make sure the whole escience center feels involved in this and people don't just feel that they get restrictions on their personal preferences (like eating meat, feeling warm and traveling by car) by "those annoying green extremists" 
-Collaborate with the IS-enes project’s Carbon Footprint group 
-Agree on how to implement the changes mentioned above 
-
- 
-
-## Office IT & laptops 
-Allow, encourage repair & replacement of batteries and other components 
-Prefer repairable and upgradeable laptops 
+* If you want to pick up an existing issue:
+    3. Assign yourself and drag it to the "Needs Action" column
+    4. Keep track regularly of your progress in the issue by writing comments and dragging it to the appropriate column
