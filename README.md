@@ -1,4 +1,4 @@
-# GREEN-NLeSC <img src="img/GREEN-NLeSC_logo_G_nl_greenblack.png" width="100" alt="(GREEN-NLeSC logo)"/>
+# GREEN-NLeSC <img src="https://github.com/NLeSC/GREEN/blob/master/img/GREEN-NLeSC_logo_G_nl_greenblack.png" width="100" alt="(GREEN-NLeSC logo)"/>
 GREEN-NLeSC action group, striving for an environmentally friendly organization
 
 * We have an overview of ideas in https://github.com/NLeSC/GREEN/blob/master/collection_of_ideas.md
